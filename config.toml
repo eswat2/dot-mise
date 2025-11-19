@@ -1,6 +1,7 @@
 [tools]
 bun = "latest"
 deno = "latest"
+fnox = "latest"
 node = "lts"
 pipx = "latest"
 pixi = "latest"
