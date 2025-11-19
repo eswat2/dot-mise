@@ -1,0 +1,9 @@
+[tools]
+bun = "latest"
+deno = "latest"
+node = "lts"
+pipx = "latest"
+poetry = "latest"
+python = "3.14"
+uv = "latest"
+yarn = "1.22.22"
