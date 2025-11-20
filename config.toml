@@ -1,5 +1,6 @@
 [tools]
 bun = "latest"
+cargo-binstall = "latest"
 deno = "latest"
 fnox = "latest"
 node = "lts"
@@ -8,5 +9,6 @@ pixi = "latest"
 poetry = "latest"
 python = "3.14"
 rust = "latest"
+usage = "latest"
 uv = "latest"
 yarn = "1.22.22"
