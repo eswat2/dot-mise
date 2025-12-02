@@ -106,14 +106,20 @@
   "python": [
     {
       "version": "3.14.0",
-      "requested_version": "3.14",
       "install_path": "/Users/richardhess/.local/share/mise/installs/python/3.14.0",
+      "installed": true,
+      "active": false
+    },
+    {
+      "version": "3.14.1",
+      "requested_version": "3.14",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/python/3.14.1",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
       },
-      "installed": true,
-      "active": true
+      "installed": false,
+      "active": false
     }
   ],
   "rust": [
