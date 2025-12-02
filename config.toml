@@ -12,3 +12,8 @@ rust = "latest"
 usage = "latest"
 uv = "latest"
 yarn = "1.22.22"
+
+[settings]
+
+[settings.python]
+compile = false
