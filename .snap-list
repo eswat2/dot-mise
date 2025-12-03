@@ -6,7 +6,7 @@ node            24.11.1           ~/.config/mise/config.toml  lts
 pipx            1.8.0             ~/.config/mise/config.toml  latest
 pixi            0.59.0            ~/.config/mise/config.toml  latest
 poetry          2.2.1             ~/.config/mise/config.toml  latest
-python          3.14.0            ~/.config/mise/config.toml  3.14
+python          3.14.1            ~/.config/mise/config.toml  3.14
 rust            1.91.1 (symlink)  ~/.config/mise/config.toml  latest
 usage           2.8.0             ~/.config/mise/config.toml  latest
 uv              0.9.14            ~/.config/mise/config.toml  latest

@@ -105,9 +105,9 @@
   ],
   "python": [
     {
-      "version": "3.14.0",
+      "version": "3.14.1",
       "requested_version": "3.14",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/python/3.14.0",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/python/3.14.1",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
