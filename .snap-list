@@ -4,7 +4,7 @@ deno            2.5.6             ~/.config/mise/config.toml  latest
 fnox            1.7.0             ~/.config/mise/config.toml  latest
 node            24.11.1           ~/.config/mise/config.toml  lts
 pipx            1.8.0             ~/.config/mise/config.toml  latest
-pixi            0.59.0            ~/.config/mise/config.toml  latest
+pixi            0.60.0            ~/.config/mise/config.toml  latest
 poetry          2.2.1             ~/.config/mise/config.toml  latest
 python          3.14.1            ~/.config/mise/config.toml  3.14
 rust            1.91.1 (symlink)  ~/.config/mise/config.toml  latest
