@@ -92,9 +92,9 @@
   ],
   "pixi": [
     {
-      "version": "0.63.0",
+      "version": "0.63.1",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/pixi/0.63.0",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/pixi/0.63.1",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
