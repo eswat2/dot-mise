@@ -131,14 +131,14 @@
   ],
   "rust": [
     {
-      "version": "1.92.0",
+      "version": "1.93.0",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/rust/1.92.0",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/rust/1.93.0",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
       },
-      "symlinked_to": "/Users/richardhess/.local/share/mise/installs/rust/1.92.0",
+      "symlinked_to": "/Users/richardhess/.local/share/mise/installs/rust/1.93.0",
       "installed": true,
       "active": true
     }
