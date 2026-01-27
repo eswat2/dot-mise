@@ -1,4 +1,4 @@
-bun             1.3.6             ~/.config/mise/config.toml  latest
+bun             1.3.7             ~/.config/mise/config.toml  latest
 cargo-binstall  1.17.3            ~/.config/mise/config.toml  latest
 deno            2.6.6             ~/.config/mise/config.toml  latest
 fnox            1.10.0            ~/.config/mise/config.toml  latest
