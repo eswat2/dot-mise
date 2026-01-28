@@ -14,9 +14,9 @@
   ],
   "cargo-binstall": [
     {
-      "version": "1.17.3",
+      "version": "1.17.4",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/cargo-binstall/1.17.3",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/cargo-binstall/1.17.4",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
