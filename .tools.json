@@ -106,8 +106,14 @@
   "poetry": [
     {
       "version": "2.3.1",
-      "requested_version": "latest",
       "install_path": "/Users/richardhess/.local/share/mise/installs/poetry/2.3.1",
+      "installed": true,
+      "active": false
+    },
+    {
+      "version": "2.3.2",
+      "requested_version": "latest",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/poetry/2.3.2",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
