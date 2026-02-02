@@ -41,8 +41,14 @@
   "fnox": [
     {
       "version": "1.10.1",
-      "requested_version": "latest",
       "install_path": "/Users/richardhess/.local/share/mise/installs/fnox/1.10.1",
+      "installed": true,
+      "active": false
+    },
+    {
+      "version": "1.11.0",
+      "requested_version": "latest",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/fnox/1.11.0",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
