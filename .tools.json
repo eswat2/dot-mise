@@ -28,8 +28,14 @@
   "deno": [
     {
       "version": "2.6.7",
-      "requested_version": "latest",
       "install_path": "/Users/richardhess/.local/share/mise/installs/deno/2.6.7",
+      "installed": true,
+      "active": false
+    },
+    {
+      "version": "2.6.8",
+      "requested_version": "latest",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/deno/2.6.8",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
