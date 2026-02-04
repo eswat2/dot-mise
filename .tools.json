@@ -54,8 +54,14 @@
   "go": [
     {
       "version": "1.25.6",
-      "requested_version": "latest",
       "install_path": "/Users/richardhess/.local/share/mise/installs/go/1.25.6",
+      "installed": true,
+      "active": false
+    },
+    {
+      "version": "1.25.7",
+      "requested_version": "latest",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/go/1.25.7",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
