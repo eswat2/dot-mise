@@ -27,12 +27,6 @@
   ],
   "deno": [
     {
-      "version": "2.6.7",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/deno/2.6.7",
-      "installed": true,
-      "active": false
-    },
-    {
       "version": "2.6.8",
       "requested_version": "latest",
       "install_path": "/Users/richardhess/.local/share/mise/installs/deno/2.6.8",
@@ -45,12 +39,6 @@
     }
   ],
   "fnox": [
-    {
-      "version": "1.10.1",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/fnox/1.10.1",
-      "installed": true,
-      "active": false
-    },
     {
       "version": "1.11.0",
       "requested_version": "latest",
@@ -117,12 +105,6 @@
   ],
   "poetry": [
     {
-      "version": "2.3.1",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/poetry/2.3.1",
-      "installed": true,
-      "active": false
-    },
-    {
       "version": "2.3.2",
       "requested_version": "latest",
       "install_path": "/Users/richardhess/.local/share/mise/installs/poetry/2.3.2",
@@ -175,12 +157,6 @@
     }
   ],
   "uv": [
-    {
-      "version": "0.9.28",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/uv/0.9.28",
-      "installed": true,
-      "active": false
-    },
     {
       "version": "0.9.29",
       "requested_version": "latest",
