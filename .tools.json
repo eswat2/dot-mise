@@ -159,8 +159,14 @@
   "uv": [
     {
       "version": "0.9.30",
-      "requested_version": "latest",
       "install_path": "/Users/richardhess/.local/share/mise/installs/uv/0.9.30",
+      "installed": true,
+      "active": false
+    },
+    {
+      "version": "0.10.0",
+      "requested_version": "latest",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/uv/0.10.0",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
