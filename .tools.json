@@ -27,12 +27,6 @@
   ],
   "deno": [
     {
-      "version": "2.6.8",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/deno/2.6.8",
-      "installed": true,
-      "active": false
-    },
-    {
       "version": "2.6.9",
       "requested_version": "latest",
       "install_path": "/Users/richardhess/.local/share/mise/installs/deno/2.6.9",
@@ -58,12 +52,6 @@
     }
   ],
   "go": [
-    {
-      "version": "1.25.7",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/go/1.25.7",
-      "installed": true,
-      "active": false
-    },
     {
       "version": "1.26.0",
       "requested_version": "latest",
@@ -169,12 +157,6 @@
     }
   ],
   "uv": [
-    {
-      "version": "0.10.1",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/uv/0.10.1",
-      "installed": true,
-      "active": false
-    },
     {
       "version": "0.10.2",
       "requested_version": "latest",
