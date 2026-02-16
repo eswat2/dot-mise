@@ -8,7 +8,9 @@ pipx            1.8.0             ~/.config/mise/config.toml  latest
 pixi            0.63.2            ~/.config/mise/config.toml  latest
 poetry          2.3.2             ~/.config/mise/config.toml  latest
 python          3.14.3            ~/.config/mise/config.toml  3.14
+ruff            0.15.1            ~/.config/mise/config.toml  latest
 rust            1.93.1 (symlink)  ~/.config/mise/config.toml  latest
+ty              0.0.17            ~/.config/mise/config.toml  latest
 usage           2.16.2            ~/.config/mise/config.toml  latest
 uv              0.10.2            ~/.config/mise/config.toml  latest
 yarn            1.22.22           ~/.config/mise/config.toml  1.22.22
