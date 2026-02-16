@@ -129,6 +129,14 @@
       "active": true
     }
   ],
+  "ruff": [
+    {
+      "version": "0.15.1",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/ruff/0.15.1",
+      "installed": true,
+      "active": false
+    }
+  ],
   "rust": [
     {
       "version": "1.93.1",
