@@ -171,9 +171,9 @@
   ],
   "usage": [
     {
-      "version": "2.16.2",
+      "version": "2.17.0",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/usage/2.16.2",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/usage/2.17.0",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -184,9 +184,9 @@
   ],
   "uv": [
     {
-      "version": "0.10.2",
+      "version": "0.10.3",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/uv/0.10.2",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/uv/0.10.3",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
