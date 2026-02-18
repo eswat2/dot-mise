@@ -1,6 +1,6 @@
 bun             1.3.9             ~/.config/mise/config.toml  latest
 cargo-binstall  1.17.5            ~/.config/mise/config.toml  latest
-deno            2.6.9             ~/.config/mise/config.toml  latest
+deno            2.6.10            ~/.config/mise/config.toml  latest
 fnox            1.12.1            ~/.config/mise/config.toml  latest
 go              1.26.0            ~/.config/mise/config.toml  latest
 node            24.13.1           ~/.config/mise/config.toml  lts
@@ -12,5 +12,5 @@ ruff            0.15.1            ~/.config/mise/config.toml  latest
 rust            1.93.1 (symlink)  ~/.config/mise/config.toml  latest
 ty              0.0.17            ~/.config/mise/config.toml  latest
 usage           2.17.0            ~/.config/mise/config.toml  latest
-uv              0.10.3            ~/.config/mise/config.toml  latest
+uv              0.10.4            ~/.config/mise/config.toml  latest
 yarn            1.22.22           ~/.config/mise/config.toml  1.22.22

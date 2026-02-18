@@ -27,9 +27,9 @@
   ],
   "deno": [
     {
-      "version": "2.6.9",
+      "version": "2.6.10",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/deno/2.6.9",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/deno/2.6.10",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -184,9 +184,9 @@
   ],
   "uv": [
     {
-      "version": "0.10.3",
+      "version": "0.10.4",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/uv/0.10.3",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/uv/0.10.4",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
