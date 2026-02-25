@@ -27,9 +27,9 @@
   ],
   "deno": [
     {
-      "version": "2.6.10",
+      "version": "2.7.1",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/deno/2.6.10",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/deno/2.7.1",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -40,9 +40,9 @@
   ],
   "fnox": [
     {
-      "version": "1.12.1",
+      "version": "1.13.0",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/fnox/1.12.1",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/fnox/1.13.0",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -66,9 +66,9 @@
   ],
   "node": [
     {
-      "version": "24.13.1",
+      "version": "24.14.0",
       "requested_version": "lts",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/node/24.13.1",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/node/24.14.0",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -92,9 +92,9 @@
   ],
   "pixi": [
     {
-      "version": "0.63.2",
+      "version": "0.64.0",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/pixi/0.63.2",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/pixi/0.64.0",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -171,9 +171,9 @@
   ],
   "usage": [
     {
-      "version": "2.18.0",
+      "version": "2.18.1",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/usage/2.18.0",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/usage/2.18.1",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -184,9 +184,9 @@
   ],
   "uv": [
     {
-      "version": "0.10.4",
+      "version": "0.10.6",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/uv/0.10.4",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/uv/0.10.6",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
