@@ -1,9 +1,9 @@
 {
   "bun": [
     {
-      "version": "1.3.9",
+      "version": "1.3.10",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/bun/1.3.9",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/bun/1.3.10",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -158,9 +158,9 @@
   ],
   "ty": [
     {
-      "version": "0.0.18",
+      "version": "0.0.19",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/ty/0.0.18",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/ty/0.0.19",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
