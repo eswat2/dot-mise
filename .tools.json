@@ -14,9 +14,9 @@
   ],
   "cargo-binstall": [
     {
-      "version": "1.17.5",
+      "version": "1.17.6",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/cargo-binstall/1.17.5",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/cargo-binstall/1.17.6",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -40,9 +40,9 @@
   ],
   "fnox": [
     {
-      "version": "1.13.0",
+      "version": "1.14.0",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/fnox/1.13.0",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/fnox/1.14.0",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -92,9 +92,9 @@
   ],
   "pixi": [
     {
-      "version": "0.64.0",
+      "version": "0.65.0",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/pixi/0.64.0",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/pixi/0.65.0",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -131,9 +131,9 @@
   ],
   "ruff": [
     {
-      "version": "0.15.2",
+      "version": "0.15.4",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/ruff/0.15.2",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/ruff/0.15.4",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -184,9 +184,9 @@
   ],
   "uv": [
     {
-      "version": "0.10.6",
+      "version": "0.10.7",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/uv/0.10.6",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/uv/0.10.7",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
