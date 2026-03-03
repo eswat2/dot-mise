@@ -40,9 +40,9 @@
   ],
   "fnox": [
     {
-      "version": "1.15.0",
+      "version": "1.15.1",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/fnox/1.15.0",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/fnox/1.15.1",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -158,9 +158,9 @@
   ],
   "ty": [
     {
-      "version": "0.0.19",
+      "version": "0.0.20",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/ty/0.0.19",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/ty/0.0.20",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
