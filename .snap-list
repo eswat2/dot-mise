@@ -12,5 +12,5 @@ ruff            0.15.5            ~/.config/mise/config.toml  latest
 rust            1.94.0 (symlink)  ~/.config/mise/config.toml  latest
 ty              0.0.21            ~/.config/mise/config.toml  latest
 usage           2.18.2            ~/.config/mise/config.toml  latest
-uv              0.10.8            ~/.config/mise/config.toml  latest
+uv              0.10.9            ~/.config/mise/config.toml  latest
 yarn            1.22.22           ~/.config/mise/config.toml  1.22.22
