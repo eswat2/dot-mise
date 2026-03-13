@@ -131,9 +131,9 @@
   ],
   "ruff": [
     {
-      "version": "0.15.5",
+      "version": "0.15.6",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/ruff/0.15.5",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/ruff/0.15.6",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -158,9 +158,9 @@
   ],
   "ty": [
     {
-      "version": "0.0.22",
+      "version": "0.0.23",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/ty/0.0.22",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/ty/0.0.23",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
