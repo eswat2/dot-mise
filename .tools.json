@@ -171,9 +171,9 @@
   ],
   "usage": [
     {
-      "version": "2.18.2",
+      "version": "3.0.0",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/usage/2.18.2",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/usage/3.0.0",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
