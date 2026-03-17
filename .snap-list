@@ -4,7 +4,7 @@ deno            2.7.5             ~/.config/mise/config.toml  latest
 fnox            1.18.0            ~/.config/mise/config.toml  latest
 go              1.26.1            ~/.config/mise/config.toml  latest
 node            24.14.0           ~/.config/mise/config.toml  lts
-pipx            1.8.0             ~/.config/mise/config.toml  latest
+pipx            1.9.0             ~/.config/mise/config.toml  latest
 pixi            0.65.0            ~/.config/mise/config.toml  latest
 poetry          2.3.2             ~/.config/mise/config.toml  latest
 python          3.14.3            ~/.config/mise/config.toml  3.14
@@ -12,5 +12,5 @@ ruff            0.15.6            ~/.config/mise/config.toml  latest
 rust            1.94.0 (symlink)  ~/.config/mise/config.toml  latest
 ty              0.0.23            ~/.config/mise/config.toml  latest
 usage           3.0.0             ~/.config/mise/config.toml  latest
-uv              0.10.10           ~/.config/mise/config.toml  latest
+uv              0.10.11           ~/.config/mise/config.toml  latest
 yarn            1.22.22           ~/.config/mise/config.toml  1.22.22
