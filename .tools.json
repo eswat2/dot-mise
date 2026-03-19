@@ -112,8 +112,8 @@
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
       },
-      "installed": false,
-      "active": false
+      "installed": true,
+      "active": true
     }
   ],
   "python": [
