@@ -158,9 +158,9 @@
   ],
   "ty": [
     {
-      "version": "0.0.23",
+      "version": "0.0.24",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/ty/0.0.23",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/ty/0.0.24",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -184,9 +184,9 @@
   ],
   "uv": [
     {
-      "version": "0.10.11",
+      "version": "0.10.12",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/uv/0.10.11",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/uv/0.10.12",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"

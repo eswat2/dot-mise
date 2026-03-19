@@ -10,7 +10,7 @@ poetry          2.3.2             ~/.config/mise/config.toml  latest
 python          3.14.3            ~/.config/mise/config.toml  3.14
 ruff            0.15.7            ~/.config/mise/config.toml  latest
 rust            1.94.0 (symlink)  ~/.config/mise/config.toml  latest
-ty              0.0.23            ~/.config/mise/config.toml  latest
+ty              0.0.24            ~/.config/mise/config.toml  latest
 usage           3.0.0             ~/.config/mise/config.toml  latest
-uv              0.10.11           ~/.config/mise/config.toml  latest
+uv              0.10.12           ~/.config/mise/config.toml  latest
 yarn            1.22.22           ~/.config/mise/config.toml  1.22.22
