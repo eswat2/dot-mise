@@ -27,9 +27,9 @@
   ],
   "deno": [
     {
-      "version": "2.7.6",
+      "version": "2.7.7",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/deno/2.7.6",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/deno/2.7.7",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -131,9 +131,9 @@
   ],
   "ruff": [
     {
-      "version": "0.15.6",
+      "version": "0.15.7",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/ruff/0.15.6",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/ruff/0.15.7",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
