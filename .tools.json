@@ -79,9 +79,9 @@
   ],
   "pipx": [
     {
-      "version": "1.10.1",
+      "version": "1.11.0",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/pipx/1.10.1",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/pipx/1.11.0",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -171,9 +171,9 @@
   ],
   "usage": [
     {
-      "version": "3.1.0",
+      "version": "3.2.0",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/usage/3.1.0",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/usage/3.2.0",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
