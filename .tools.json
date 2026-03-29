@@ -14,9 +14,9 @@
   ],
   "cargo-binstall": [
     {
-      "version": "1.17.8",
+      "version": "1.17.9",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/cargo-binstall/1.17.8",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/cargo-binstall/1.17.9",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -105,9 +105,9 @@
   ],
   "poetry": [
     {
-      "version": "2.3.2",
+      "version": "2.3.3",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/poetry/2.3.2",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/poetry/2.3.3",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
