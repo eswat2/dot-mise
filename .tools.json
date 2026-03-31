@@ -79,9 +79,9 @@
   ],
   "pipx": [
     {
-      "version": "1.11.0",
+      "version": "1.11.1",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/pipx/1.11.0",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/pipx/1.11.1",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
