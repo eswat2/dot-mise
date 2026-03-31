@@ -27,9 +27,9 @@
   ],
   "deno": [
     {
-      "version": "2.7.9",
+      "version": "2.7.10",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/deno/2.7.9",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/deno/2.7.10",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -158,9 +158,9 @@
   ],
   "ty": [
     {
-      "version": "0.0.26",
+      "version": "0.0.27",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/ty/0.0.26",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/ty/0.0.27",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
