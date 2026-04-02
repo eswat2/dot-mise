@@ -131,9 +131,9 @@
   ],
   "ruff": [
     {
-      "version": "0.15.8",
+      "version": "0.15.9",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/ruff/0.15.8",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/ruff/0.15.9",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
