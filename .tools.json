@@ -92,9 +92,9 @@
   ],
   "pixi": [
     {
-      "version": "0.66.0",
+      "version": "0.67.0",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/pixi/0.66.0",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/pixi/0.67.0",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -118,9 +118,9 @@
   ],
   "python": [
     {
-      "version": "3.14.3",
+      "version": "3.14.4",
       "requested_version": "3.14",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/python/3.14.3",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/python/3.14.4",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -184,9 +184,9 @@
   ],
   "uv": [
     {
-      "version": "0.11.3",
+      "version": "0.11.4",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/uv/0.11.3",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/uv/0.11.4",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
