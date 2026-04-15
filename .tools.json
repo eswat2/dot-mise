@@ -158,9 +158,9 @@
   ],
   "ty": [
     {
-      "version": "0.0.30",
+      "version": "0.0.31",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/ty/0.0.30",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/ty/0.0.31",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
