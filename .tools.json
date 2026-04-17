@@ -131,9 +131,9 @@
   ],
   "ruff": [
     {
-      "version": "0.15.10",
+      "version": "0.15.11",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/ruff/0.15.10",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/ruff/0.15.11",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -144,14 +144,14 @@
   ],
   "rust": [
     {
-      "version": "1.94.1",
+      "version": "1.95.0",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/rust/1.94.1",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/rust/1.95.0",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
       },
-      "symlinked_to": "/Users/richardhess/.local/share/mise/installs/rust/1.94.1",
+      "symlinked_to": "/Users/richardhess/.local/share/mise/installs/rust/1.95.0",
       "installed": true,
       "active": true
     }
