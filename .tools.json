@@ -1,9 +1,9 @@
 {
   "bun": [
     {
-      "version": "1.3.12",
+      "version": "1.3.13",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/bun/1.3.12",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/bun/1.3.13",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
@@ -92,9 +92,9 @@
   ],
   "pixi": [
     {
-      "version": "0.67.0",
+      "version": "0.67.1",
       "requested_version": "latest",
-      "install_path": "/Users/richardhess/.local/share/mise/installs/pixi/0.67.0",
+      "install_path": "/Users/richardhess/.local/share/mise/installs/pixi/0.67.1",
       "source": {
         "type": "mise.toml",
         "path": "/Users/richardhess/.config/mise/config.toml"
